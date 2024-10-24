@@ -2,9 +2,12 @@
 
 
 ### 2024
-- **MMF-Net**: Zhuanfeng Li, Fengchao Xiong, Jun Zhou, Jianfeng Lu, Zhuang Zhao, Yuntao Qian. Material-Guided Multiview Fusion Network for Hyperspectral Object Tracking.  In _TGRS_, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10438474) [[Code]]  
+- **MMF-Net**: Zhuanfeng Li, Fengchao Xiong, Jun Zhou, Jianfeng Lu, Zhuang Zhao, Yuntao Qian. Material-Guided Multiview Fusion Network for Hyperspectral Object Tracking.  In _TGRS_, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10438474) [[Code]]
+- **PHTrack**: Yuzeng Chen, Yuqi Tang, Xin Su, Jie Li, Yi Xiao, Jiang He, and Qiangqiang Yuan. PHTrack: Prompting for Hyperspectral Video Tracking.  In _TGRS_, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10680554) [[Code](https://github.com/YZCU/PHTrack)]
+- **SENSE**: Yuzeng Chen, Qiangqiang Yuan, Yuqi Tang, Yi Xiao, Jiang He, Zhenqi Liu. SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues. In _InformationFusion_, 2024. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253524001738) [[Code](https://github.com/YZCU/SENSE)]
 
 ### 2023
+- **SiamBAG**: Wei Li; Zengfu Hou; Jun Zhou; Ran Tao. SiamBAG: Band Attention Grouping-Based Siamese Object Tracking Network for Hyperspectral Videos.  In _TGRS_, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10149343) [[Code](https://github.com/zephyrhours/Hyperspectral-Object-Tracking-SiamBAG)]  
 - **SEE-Net**: Zhuanfeng Li, Fengchao Xiong, Jun Zhou, Jianfeng Lu, Yuntao Qian. Learning a Deep Ensemble Network With Band Importance for Hyperspectral Object Tracking. In _TIP_, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10128966) [[Code]]
 - **Cbff-net**: Long Gao, Pan Liu, Yan Jiang, Weiying Xie, Jie Lei, Yunsong Li, Qian Du. Cbff-net: A new framework for efficient and accurate hyperspectral object tracking. In _TGRS_, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10061231) [[Code]]  
 - **SPIRIT**: Yuzeng Chen, Qiangqiang Yuan, Yuqi Tang, Yi Xiao, Jiang He, Liangpei Zhang. SPIRIT: Spectral Awareness Interaction Network With Dynamic Template for Hyperspectral Object Tracking. In _TGRS_, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10375560) [[Code]]
@@ -15,6 +18,7 @@
 
 
 ### 2022
+- **SiamHYPER**: SiamHYPER: Learning a Hyperspectral Object Tracker From an RGB-Based Tracker. In _TIP_, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9933370) [[Code]]
 - **TFTN**: Chunhui Zhao, Hongjiao Liu, Nan Su, Yiming Yan. TFTN: A Transformer-Based Fusion Tracking Framework of Hyperspectral and RGB. In _TGRS_, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9924197) [[Code]]
 - **TSCFW**: Zengfu Hou, Wei Li, Jun Zhou, Ran Tao. Spatial–Spectral Weighted and Regularized Tensor Sparse Correlation Filter for Object Tracking in Hyperspectral Videos. In _TGRS_, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9924160) [[Code]]
 - **SSATFN**: Ye Wang, Yuheng Liu, Ge Zhang, Yuru Su, Shun Zhang, Shaohui Mei. Spectral-Spatial-Aware Transformer Fusion Network For Hyperspectral Object Tracking. In _WHISPERS_, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9955100) [[Code]]
