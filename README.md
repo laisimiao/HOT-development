@@ -40,6 +40,7 @@
 ### 2021
 - **SST-Net**: Spectral-Spatial-Temporal Attention Network for Hyperspectral Tracking. Zhuanfeng Li, Xinhai Ye, Fengchao Xiong, Jianfeng Lu, Jun Zhou, Yuntao Qian. In **_WHISPERS_**, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9484032) [[Code]]
 - **BRRF-Net**: Band Regrouping and Response-Level Fusion for End-to-End Hyperspectral Object Tracking. Er Ouyang, Jianhui Wu, Bin Li, Lin Zhao, Wenjing Hu. In **_LGRS_**, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9658497) [[Code]]
+- **WHU-Hi-H3**: Unsupervised Deep Hyperspectral Video Target Tracking and High Spectral-Spatial-Temporal Resolution (H³) Benchmark Dataset. Zhenqi Liu, Yanfei Zhong, Xinyu Wang, Meng Shu, Liangpei Zhang. In **_TGRS_**, 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9625660) [[Code]]
  
 
 ### 2020
@@ -51,5 +52,14 @@
 - **KCF??**: Object Tracking in Hyperspectral Videos with Convolutional Features and Kernelized Correlation Filter. Kun Qian, Jun Zhou, Fengchao Xiong, Huixin Zhou, Juan Du. In **_ICSM_**, 2018. [[Paper]](https://arxiv.org/abs/1810.11819) [[Code]]
 - **TOR**: Tracking via object reflectance using a hyperspectral video camera. Hien Van Nguyen, Amit Banerjee, Rama Chellappa. In **_CVPRW_**, 2010. [[Paper]](https://ieeexplore.ieee.org/document/5543780) [[Code]]
 
+### Benchmarks:
+- **HOTC**:  
+- **HOT2020**:  
+- **IEMC25**: Histograms of oriented mosaic gradients for snapshot spectral image description. Lulu Chen, Yongqiang Zhao, Jonathan Cheung-Wai Chan, Seong G. Kong. In **_ISPRS_**, 2021. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0924271621002860) [[Code](https://github.com/Chenlulu1993/HOMG)]
+- **HOT2022**: 
+- **HOT2023**:  
+- **HOT2024**:  
+- $WHU-Hi-H^{3}$: Unsupervised Deep Hyperspectral Video Target Tracking and High Spectral-Spatial-Temporal Resolution (H³) Benchmark Dataset. Zhenqi Liu, Yanfei Zhong, Xinyu Wang, Meng Shu, Liangpei Zhang. In **_TGRS_**, 2021. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9625660) [[Code]]  
+- **BihoT**: BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking. Hanzheng Wang , Wei Li, Xiang-Gen Xia, Qian Du. In **_arXiv_**, 2024. [[Paper]](https://arxiv.org/pdf/2408.12232) [[Code]]  
 
 
