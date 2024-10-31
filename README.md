@@ -2,6 +2,7 @@
 - ****: [[Paper]]() [[Code]()]
 
 ### 2024
+- **MVP-HOT**: MVP-HOT: A moderate visual prompt for hyperspectral object tracking. Lin Zhao, Shaoxiong Xie, Jia Li, Ping Tan, Wenjin Hu. In **_JVCI_**, 2024. [[Paper]](https://doi.org/10.1016/j.jvcir.2024.104326) [[Code]] 
 - **SP-HST**: Hyperspectral Object Tracking with Spectral Information Prompt. Long Gao, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li. In **_TechRxiv_**, 2024. [[Paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.172349620.00892203) [[Code](https://github.com/lgao001/SP-HST)]
 - **BihoT**: BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking. Hanzheng Wang , Wei Li, Xiang-Gen Xia, Qian Du. In **_arXiv_**, 2024. [[Paper]](https://arxiv.org/pdf/2408.12232) [[Code]]
 - **Hy-Tracker**: Hy-Tracker: A Novel Framework for Enhancing Efficiency and Accuracy of Object Tracking in Hyperspectral Videos. Mohammad Aminul Islam, Wangzhi Xing, Jun Zhou, Yongsheng Gao, Kuldip K. Paliwal. In **_TGRS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10569013) [[Code]]
@@ -26,6 +27,7 @@
 - **SIPHOT**: Multi-Band Hyperspectral Object Tracking: Leveraging Spectral Information Prompts and Spectral Scale-Aware Representation. Hongjiao Liu, Jiayue He, Jinpeng Wang, Nan Su, Chunhui Zhao, Yiming Yan, Shou Feng, Ze Liu, Jianfei Liu, Zilong Zhao. In **_Whispers_**, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10431304) [[Code]]
 - **AD-SiamRPN**: AD-SiamRPN: Anti-Deformation Object Tracking via an Improved Siamese Region Proposal Network on Hyperspectral Videos. Shiqing Wang, Kun Qian, Jianlu Shen, Hongyu Ma, Peng Chen. In **_Remote Sens_**, 2023. [[Paper]](https://www.mdpi.com/2072-4292/15/7/1731) [[Code](https://github.com/yusenwsq/AD-SiamRPN)]
 - **SSTFT**: A Spectral–Spatial Transformer Fusion Method for Hyperspectral Video Tracking. Ye Wang, Yuheng Liu, Mingyang Ma, Shaohui Mei. In **_Remote Sens_**, 2023. [[Paper]](https://www.mdpi.com/2072-4292/15/7/1735) [[Code]]
+- **SiamPKHT**: SiamPKHT: Hyperspectral Siamese Tracking Based on Pyramid Shuffle Attention and Knowledge Distillation. Kun Qian, Shiqing Wang, Shoujin Zhang, Jianlu Shen. In **_Sensors_**, 2023. [[Paper]](https://www.mdpi.com/1424-8220/23/23/9554) [[Code]]
 - **SiamHT**:  A Siamese network-based tracking framework for hyperspectral video. Yiming Tang, Hong Huang, Yufei Liu, Yuan Li. In **_Neural Computing and Applications_**, 2023. [[Paper]](https://link.springer.com/article/10.1007/s00521-022-07712-5) [[Code]]
 
 
