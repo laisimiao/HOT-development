@@ -63,6 +63,7 @@
 - **DeepHKCF**: Tracking in Aerial Hyperspectral Videos Using Deep Kernelized Correlation Filters. Burak Uzkent, Aneesh Rangnekar, Matthew J. Hoffman. In **_TGRS_**, 2018. [[Paper]](https://ieeexplore.ieee.org/document/8435971) [[Code]]
 - **KCF??**: Object Tracking in Hyperspectral Videos with Convolutional Features and Kernelized Correlation Filter. Kun Qian, Jun Zhou, Fengchao Xiong, Huixin Zhou, Juan Du. In **_ICSM_**, 2018. [[Paper]](https://arxiv.org/abs/1810.11819) [[Code]]
 - **TOR**: Tracking via object reflectance using a hyperspectral video camera. Hien Van Nguyen, Amit Banerjee, Rama Chellappa. In **_CVPRW_**, 2010. [[Paper]](https://ieeexplore.ieee.org/document/5543780) [[Code]]
+- **HVT**: Hyperspectral video for illumination-invariant tracking. Amit Banerjee, Philippe Burlina, Joshua Broadwater. In **_WHISPERS_**, 2009. [[Paper]](https://ieeexplore.ieee.org/document/5289103) [[Code]]第一届WHISPERS  
 
 ### Benchmarks:
 - **HOTC**:  
