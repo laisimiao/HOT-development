@@ -61,6 +61,7 @@
 - **BAE-Net**: BAE-Net: A Band Attention Aware Ensemble Network for Hyperspectral Object Tracking. Zhuanfeng Li, Fengchao Xiong, Jun Zhou, Jing Wang, Jianfeng Lu,Yuntao Qian. In **_ICIP_**, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9191105/) [[Code]]
 
 ### Ealier
+- **DMT**: Dynamic Material-Aware Object Tracking in Hyperspectral Videos. Fengchao Xiong, Jun Zhou, Jocelyn Chanussot, Yuntao Qian. In **_WHISPERS_**, 2019. [[Paper]](https://ieeexplore.ieee.org/document/8921176) [[Code]]
 - **DeepHKCF**: Tracking in Aerial Hyperspectral Videos Using Deep Kernelized Correlation Filters. Burak Uzkent, Aneesh Rangnekar, Matthew J. Hoffman. In **_TGRS_**, 2018. [[Paper]](https://ieeexplore.ieee.org/document/8435971) [[Code](https://github.com/uzkent/HKCF_Tracker)]
 - **CNHT**: Object Tracking in Hyperspectral Videos with Convolutional Features and Kernelized Correlation Filter. Kun Qian, Jun Zhou, Fengchao Xiong, Huixin Zhou, Juan Du. In **_ICSM_**, 2018. [[Paper]](https://arxiv.org/abs/1810.11819) [[Code](https://www.xiongfuli.com/cv/code/ICSM.zip)]
 - **HLT**： Aerial Vehicle Tracking by Adaptive Fusion of Hyperspectral Likelihood Maps. Burak Uzkent, Matthew J. Hoffman, Anthony Vodacek. In **_CVPRW_**, 2017. [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w3/papers/Uzkent_Aerial_Vehicle_Tracking_CVPR_2017_paper.pdf) [[Code]]  
