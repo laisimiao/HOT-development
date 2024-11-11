@@ -2,6 +2,7 @@
 - ****: [[Paper]]() [[Code]()]
 
 ### 2024
+- **MCAN**： Multi-view Cross-Attention Network  for Hyperspectral Object Tracking. Minghao Zhu, Chongchong Wang, Heng Wang, Shanshan Yuan,  Lin Song, Zongfang Ma. In **_PRCV_**, 2024. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-97-8493-6_3) [[Code](https://github.com/cccc-1111/MCAN)]
 - **MVP-HOT**: MVP-HOT: A moderate visual prompt for hyperspectral object tracking. Lin Zhao, Shaoxiong Xie, Jia Li, Ping Tan, Wenjin Hu. In **_JVCI_**, 2024. [[Paper]](https://doi.org/10.1016/j.jvcir.2024.104326) [[Code]] 
 - **SP-HST**: Hyperspectral Object Tracking with Spectral Information Prompt. Long Gao, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li. In **_TechRxiv_**, 2024. [[Paper]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.172349620.00892203) [[Code](https://github.com/lgao001/SP-HST)]
 - **BihoT**: BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking. Hanzheng Wang , Wei Li, Xiang-Gen Xia, Qian Du. In **_arXiv_**, 2024. [[Paper]](https://arxiv.org/pdf/2408.12232) [[Code]]
