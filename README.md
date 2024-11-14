@@ -31,7 +31,6 @@
 - **AD-SiamRPN**: AD-SiamRPN: Anti-Deformation Object Tracking via an Improved Siamese Region Proposal Network on Hyperspectral Videos. Shiqing Wang, Kun Qian, Jianlu Shen, Hongyu Ma, Peng Chen. In **_Remote Sens_**, 2023. [[Paper]](https://www.mdpi.com/2072-4292/15/7/1731) [[Code](https://github.com/yusenwsq/AD-SiamRPN)]
 - **SSTFT**: A Spectral–Spatial Transformer Fusion Method for Hyperspectral Video Tracking. Ye Wang, Yuheng Liu, Mingyang Ma, Shaohui Mei. In **_Remote Sens_**, 2023. [[Paper]](https://www.mdpi.com/2072-4292/15/7/1735) [[Code]]
 - **SiamPKHT**: SiamPKHT: Hyperspectral Siamese Tracking Based on Pyramid Shuffle Attention and Knowledge Distillation. Kun Qian, Shiqing Wang, Shoujin Zhang, Jianlu Shen. In **_Sensors_**, 2023. [[Paper]](https://www.mdpi.com/1424-8220/23/23/9554) [[Code]]
-- **SiamHT**:  A Siamese network-based tracking framework for hyperspectral video. Yiming Tang, Hong Huang, Yufei Liu, Yuan Li. In **_Neural Computing and Applications_**, 2023. [[Paper]](https://link.springer.com/article/10.1007/s00521-022-07712-5) [[Code]]
 
 
 ### 2022
@@ -40,6 +39,7 @@
 - **TSCFW**: Spatial–Spectral Weighted and Regularized Tensor Sparse Correlation Filter for Object Tracking in Hyperspectral Videos.  Zengfu Hou, Wei Li, Jun Zhou, Ran Tao. In **_TGRS_**, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9924160) [[Code](https://github.com/zephyrhours/Hyperspectral-Object-Tracking-TSCFW)]
 - **SSDT-Net**: Spatial–Spectral Cross-Correlation Embedded Dual-Transfer Network for Object Tracking Using Hyperspectral Videos. Jie Lei, Pan Liu, Weiying Xie, Long Gao, Yunsong Li, Qian Du. In **_Remote Sens_**, 2022. [[Paper]](https://www.mdpi.com/2072-4292/14/15/3512) [[Code]]
 - **RANet**： RANet: A Reliability-Guided Aggregation Network for Hyperspectral and RGB Fusion Tracking. Chunhui Zhao, Hongjiao Liu, Nan Su, Lu Wang, Yiming Yan. In **_Remote Sens_**, 2022. [[Paper]](https://www.mdpi.com/2072-4292/14/12/2765) [[Code]]
+- **SiamHT**:  A Siamese network-based tracking framework for hyperspectral video. Yiming Tang, Hong Huang, Yufei Liu, Yuan Li. In **_Neural Computing and Applications_**, 2022. [[Paper]](https://link.springer.com/article/10.1007/s00521-022-07712-5) [[Code]]
 - **SiamF**: Material-Guided Siamese Fusion Network for Hyperspectral Object Tracking. Zhuanfeng Li, Fengchao Xiong, Jianfeng Lu, Jun Zhou, Yuntao Qian. In **_ICASSP_**, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9746089) [[Code]]
 - **SSATFN**: Spectral-Spatial-Aware Transformer Fusion Network For Hyperspectral Object Tracking. Ye Wang, Yuheng Liu, Ge Zhang, Yuru Su, Shun Zhang, Shaohui Mei. In **_WHISPERS_**, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9955100) [[Code]]
 - **BACF**: A Fast Hyperspectral Object Tracking Method Based On Channel Selection Strategy. Yifan Zhang, Xu Li, Feiyue Wang, Baoguo Wei, Lixin Li. In **_WHISPERS_**, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9955094) [[Code]]
