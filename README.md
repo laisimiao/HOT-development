@@ -2,6 +2,7 @@
 - ****: [[Paper]]() [[Code]()]
 
 ### 2024
+- **HotMoE**: HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking. Wenfang Sun, Yuedong Tan, Jingyuan Li, Shuwei Hou, Xiaobo Li, Yingzhao Shao, Zhe Wang, Beibei Song. In **_TMM_**, 2024. [[Paper]] [[Code](https://github.com/supertyd/hotmoe)]
 - **HDSP**: Hyperspectral Object Tracking with Dual-Stream Prompt. Rui Yao, Lu Zhang, Yong Zhou, Hancheng Zhu, Jiaqi Zhao, Zhiwen Shao. In **_TGRS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10798510) [[Code](https://github.com/rayyao/HDSP)]
 - **SSF-Net**: SSF-Net: Spatial-Spectral Fusion Network with Spectral Angle Awareness for Hyperspectral Object Tracking. Hanzheng Wang, Wei Li, Xiang-Gen Xia, Qian Du, Jing Tian. In **_arXiv_**, 2024.03. [[Paper]](https://arxiv.org/abs/2403.05852) [[Code]]
 - **MCAN**： Multi-view Cross-Attention Network  for Hyperspectral Object Tracking. Minghao Zhu, Chongchong Wang, Heng Wang, Shanshan Yuan,  Lin Song, Zongfang Ma. In **_PRCV_**, 2024. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-97-8493-6_3) [[Code](https://github.com/cccc-1111/MCAN)]
