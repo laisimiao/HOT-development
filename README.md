@@ -2,6 +2,7 @@
 - ****: [[Paper]]() [[Code]()]
 
 ### 2024
+- **DaSSP-Net**: Multi-domain universal representation learning for hyperspectral object tracking. Zhuanfeng Li, Fengchao Xiong, Jianfeng Lu, Jing Wang, Diqi Chen, Jun Zhou, Yuntao Qian. In **_PR_**, 2024. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320325000494) [[Code](https://github.com/hscv/DaSSP-Net)]
 - **HotMoE**: HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking. Wenfang Sun, Yuedong Tan, Jingyuan Li, Shuwei Hou, Xiaobo Li, Yingzhao Shao, Zhe Wang, Beibei Song. In **_TMM_**, 2024. [[Paper]] [[Code](https://github.com/supertyd/hotmoe)]
 - **HDSP**: Hyperspectral Object Tracking with Dual-Stream Prompt. Rui Yao, Lu Zhang, Yong Zhou, Hancheng Zhu, Jiaqi Zhao, Zhiwen Shao. In **_TGRS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10798510) [[Code](https://github.com/rayyao/HDSP)]
 - **SSF-Net**: SSF-Net: Spatial-Spectral Fusion Network with Spectral Angle Awareness for Hyperspectral Object Tracking. Hanzheng Wang, Wei Li, Xiang-Gen Xia, Qian Du, Jing Tian. In **_arXiv_**, 2024.03. [[Paper]](https://arxiv.org/abs/2403.05852) [[Code]]
