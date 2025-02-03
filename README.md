@@ -2,9 +2,10 @@
 - ****: [[Paper]]() [[Code]()]
 
 ### 2024
+- **SiamS2F**: SiamS2F: Satellite Video Single-Object Tracking Based on a Siamese Spectral-Spatial-Frame Correlation Network. Pengyuan Lv, Xianyan Gao, Yanfei Zhong. In **_TGRS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10856246) [[Code]]
 - **SPTrack**: SPTrack: Spectral similarity prompt learning for hyperspectral object tracking. Gaowei_Guo, Zhaoxu Li, Wei An, Yingqian Wang, Xu He, Yihang Luo, Qiang Ling, Miao Li, Zaiping Lin. In **_Remote Sens_**, 2024. [[Paper]](https://doi.org/10.3390/rs16162975) [[Code]]  
  **DaSSP-Net**: Multi-domain universal representation learning for hyperspectral object tracking. Zhuanfeng Li, Fengchao Xiong, Jianfeng Lu, Jing Wang, Diqi Chen, Jun Zhou, Yuntao Qian. In **_PR_**, 2024. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320325000494) [[Code](https://github.com/hscv/DaSSP-Net)]
-- **HotMoE**: HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking. Wenfang Sun, Yuedong Tan, Jingyuan Li, Shuwei Hou, Xiaobo Li, Yingzhao Shao, Zhe Wang, Beibei Song. In **_TMM_**, 2024. [[Paper]] [[Code](https://github.com/supertyd/hotmoe)]
+- **HotMoE**: HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking. Wenfang Sun, Yuedong Tan, Jingyuan Li, Shuwei Hou, Xiaobo Li, Yingzhao Shao, Zhe Wang, Beibei Song. In **_TMM_**, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10855488) [[Code](https://github.com/supertyd/hotmoe)]
 - **HDSP**: Hyperspectral Object Tracking with Dual-Stream Prompt. Rui Yao, Lu Zhang, Yong Zhou, Hancheng Zhu, Jiaqi Zhao, Zhiwen Shao. In **_TGRS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10798510) [[Code](https://github.com/rayyao/HDSP)]
 - **SSF-Net**: SSF-Net: Spatial-Spectral Fusion Network with Spectral Angle Awareness for Hyperspectral Object Tracking. Hanzheng Wang, Wei Li, Xiang-Gen Xia, Qian Du, Jing Tian. In **_arXiv_**, 2024.03. [[Paper]](https://arxiv.org/abs/2403.05852) [[Code]]
 - **MCAN**： Multi-view Cross-Attention Network  for Hyperspectral Object Tracking. Minghao Zhu, Chongchong Wang, Heng Wang, Shanshan Yuan,  Lin Song, Zongfang Ma. In **_PRCV_**, 2024. [[Paper]](https://link.springer.com/chapter/10.1007/978-981-97-8493-6_3) [[Code](https://github.com/cccc-1111/MCAN)]
