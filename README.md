@@ -1,7 +1,20 @@
 # Hyperspectral Object Tracking
 - ****: [[Paper]]() [[Code]()]
-
+### 2025  
+- **Survey Paper1**: Deep feature-based hyperspectral object tracking: An experimental survey and outlook. Yuchao Wang, Xu Li, Xinyan Yang, Fuyuan Ge, Baoguo Wei, Lixin Li, Shigang Yue. In **_Remote Sens_**, 2025. [[Paper]](https://doi.org/10.3390/rs17040645) [[Code]]  
+  
 ### 2024
+- **STTrack**: Spectral-Temporal Token-Guided Prompt Mamba for Hyperspectral Object Tracking. Hanzheng Wang, Yangfan Li, Wei Li. In **_WHISPERS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10876425/) [[Code]]  
+- **LA-HST**: Hyperspectral Object Tracking with Low-Rank Adaptation. Langkun Chen, Yunhe Zhang, Yuze Ke, Long Gao, Weiying Xie. In **_WHISPERS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10876497/) [[Code]]  
+- **ADTrack-HOT**: Incorporating Prompt Learning and Adaptive Dropping Hyperspectral Information Tracker for Hyperspectral Object Tracking. Jiawei Zhou, Jiaqi Zhang, Yanni Dong. In **_WHISPERS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10876540/) [[Code]]  
+- **SPA-Tracker**: SPA-Tracker: Spectral Prompt Adaptation for Hyperspectral Object Tracking. Huang Wan, Shaoxiong Xie, Tian Luo, Siqi Ma, Lin Zhao, Wen Li, Wenjing Hu. In **_WHISPERS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10876457/) [[Code]]  
+- **SE-Transformer**: Spectral-Enhanced Transformers: Leveraging Large-Scale Pretrained Models for Hyperspectral Object Tracking. Shaheer Mohamed, Tharindu Fernando, Sridha Sridharan, Peyman Moghadam, Clinton Fookes. In **_WHISPERS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10876537/) [[Code]]  
+- **HySSTP**: HySSTP: Hyperspectral Video Tracker Embedding Multi-Modal Spatial-Spectral-Temporal Features. Yuzeng Chen, Qiangqiang Yuan. In **_WHISPERS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10876539/) [[Code]]  
+- **AmodalSAM2**: Amodal Memory-Based Hyperspectral Object Tracking. Anthony Medellin, David Grabowsky, Albert Ma, Dariusz Mikulski, Reza Langari. In **_WHISPERS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10876479/) [[Code]]  
+- **DeSAM2**: DeSAM2: Detection-Driven SAM2 for Hyperspectral Object Tracking. Wangquan He, Qi Ren, Hongtao Zhang, Ziqian Mo, Nanying Li, Meng Xu, Sen Jia. In **_WHISPERS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10876417/) [[Code]]  
+- **HyperSAM**: Track Hyperspectral Videos via Segment Anything Model 2. Zixuan Qian, Zongming Li, Bin Feng, Wenyu Liu, Xinggang Wang. In **_WHISPERS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10876421/) [[Code]]  
+
+
 - **SiamS2F**: SiamS2F: Satellite Video Single-Object Tracking Based on a Siamese Spectral-Spatial-Frame Correlation Network. Pengyuan Lv, Xianyan Gao, Yanfei Zhong. In **_TGRS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10856246) [[Code]]
 - **SPTrack**: SPTrack: Spectral similarity prompt learning for hyperspectral object tracking. Gaowei_Guo, Zhaoxu Li, Wei An, Yingqian Wang, Xu He, Yihang Luo, Qiang Ling, Miao Li, Zaiping Lin. In **_Remote Sens_**, 2024. [[Paper]](https://doi.org/10.3390/rs16162975) [[Code]]  
  **DaSSP-Net**: Multi-domain universal representation learning for hyperspectral object tracking. Zhuanfeng Li, Fengchao Xiong, Jianfeng Lu, Jing Wang, Diqi Chen, Jun Zhou, Yuntao Qian. In **_PR_**, 2024. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320325000494) [[Code](https://github.com/hscv/DaSSP-Net)]
