@@ -1,7 +1,15 @@
 # Hyperspectral Object Tracking
-- ****: [[Paper]]() [[Code]()]
+- ****: [[Paper]()] [[Code]()]
 ### 2025  
-- **Survey Paper1**: Deep feature-based hyperspectral object tracking: An experimental survey and outlook. Yuchao Wang, Xu Li, Xinyan Yang, Fuyuan Ge, Baoguo Wei, Lixin Li, Shigang Yue. In **_Remote Sens_**, 2025. [[Paper]](https://doi.org/10.3390/rs17040645) [[Code]]  
+- **Survey Paper1**: Deep feature-based hyperspectral object tracking: An experimental survey and outlook. Yuchao Wang, Xu Li, Xinyan Yang, Fuyuan Ge, Baoguo Wei, Lixin Li, Shigang Yue. In **_Remote Sens_**, 2025. [[Paper]](https://doi.org/10.3390/rs17040645) [[Code]]
+- **HyA-T**: Hyperspectral Adapter for Object Tracking based on Hyperspectral Video. Long Gao, Yunhe Zhang, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li. In **_arXiv_**, 2025. [[Paper](https://arxiv.org/pdf/2503.22199)] [[Code](https://github.com/lgao001/HyA-T)]
+- **MUST**: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking. Haolin Qin, Tingfa Xu, Tianhao Li, Zhenxiang Chen, Tao Feng, Jianan Li. In **_CVPR2025_**, 2025. [[Paper](https://arxiv.org/abs/2503.17699)] [[Code](https://github.com/q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking)]
+- **CCTrack**: Hyperspectral Object Tracking With Context-Aware Learning and Category Consistency. Ye Wang, Shaohui Mei, Mingyang Ma, Yuheng Liu, Tao Gao, Huiyang Han. In **_TGRS_**, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10928989)] [[Code]()]  
+- **SSTCF**: Spatial-Spectral-Temporal Correlation Filter for Hyperspectral Object Tracking. Fengchao Xiong, Yongle Sun, Jun Zhou, Jianfeng Lu, Yuntao Qian. In **_TGRS_**, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10904928)] [[Code](https://github.com/bearshng/SSTCF)]
+- **HTACPE**: A Hybrid Transformer with Adaptive Content and Position Embedding for Sample Learning Efficiency of Hyperspectral Tracker. Ye Wang, Shaohui Mei, Mingyang Ma, Yuheng Liu, Yuru Su. In **_TMM_**, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/10820018)] [[Code]()]
+- **SASUNet**: Hyperspectral video tracker based on spectral adaptive aggregation weighting and scale updating. Dong Zhao, Haorui Zhang, Pattathal V. Arun, Kunpeng Huang, Wenhao Jiang, Shiyu Lia, Xuguang Zhu, Xiaofang Pei, Huixin Zhou. In **_Expert Systems with Applications_**, 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417425003434)] [[Code](https://github.com/CodeMANz11/SASUNet)]
+-  **HOPL**: Historical Object-Aware Prompt Learning for Universal Hyperspectral Object Tracking. Lu Zhang, Rui Yao, Yuhong Zhang, Yong Zhou, Fuyuan Hu, Jiaqi Zhao, Zhiwen Shao. In **_WHISPERS_**, 2025. [[Paper](https://dl.acm.org/doi/10.1145/3736581)] [[Code](https://github.com/rayyao/HOPL)]
+-  
   
 ### 2024
 - **STTrack**: Spectral-Temporal Token-Guided Prompt Mamba for Hyperspectral Object Tracking. Hanzheng Wang, Yangfan Li, Wei Li. In **_WHISPERS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10876425/) [[Code]]  
