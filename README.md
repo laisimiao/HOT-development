@@ -14,7 +14,7 @@
 -  **SpectralTrack**: Hyperspectral Video Tracking with Spectral-Spatial Fusion and Memory Enhancement. Yuzeng Chen; Qiangqiang Yuan; Hong Xie; Yuqi Tang; Yi Xiao; Jiang He. In **_TIP_**, 2025. [[Paper](https://ieeexplore.ieee.org/document/11007172)] [[Code](https://github.com/YZCU/SpectralTrack)]
 -  **VPH**: A visual prompt learning network for hyperspectral object tracking. Haijiao Xing, Wei Wei, Lei Zhang, Chen Ding. In **_PRL_**, 2025. [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865525001953)] [[Code](https://github.com/972821054/VPH)]
 -  **SSF-Net**: Spatial-Spectral Fusion Network With Spectral Angle Awareness for Hyperspectral Object Tracking. Hanzheng Wang; Wei Li; Xiang-Gen Xia; Qian Du; Jing Tian. In **_TIP_**, 2025. [[Paper](https://ieeexplore.ieee.org/document/11018216)] [[Code](https://github.com/hzwyhc/hsvt)]
--  **SP-HST**: Hyperspectral Object Tracking with Spectral Information Prompt. Long Gao, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li. In **_TCSVT_**, 2025. [[Paper]](https://ieeexplore.ieee.org/document/11029092) [[Code](https://github.com/lgao001/SP-HST)]  
+-  **SP-HST**: Hyperspectral Object Tracking with Spectral Information Prompt. Gang He; Long Gao; Langkun Chen; Yan Jiang; Weiying Xie; Yunsong Li. In **_TCSVT_**, 2025. [[Paper]](https://ieeexplore.ieee.org/document/11029092) [[Code](https://github.com/lgao001/SP-HST)]  
   
 ### 2024
 - **STTrack**: Spectral-Temporal Token-Guided Prompt Mamba for Hyperspectral Object Tracking. Hanzheng Wang, Yangfan Li, Wei Li. In **_WHISPERS_**, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10876425/) [[Code]]  
