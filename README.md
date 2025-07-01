@@ -1,6 +1,7 @@
 # Hyperspectral Object Tracking
 - ****: [[Paper]()] [[Code]()]
 ### 2025  
+- **VSS**: A Multi-Stream Visual-Spectral-Spatial Adaptive Hyperspectral Object Tracking. Pengfei Wei, Liu Qiao, Zhenyu He, Di Yuan. In **_ICMR_**, 2025. [[Paper](https://dl.acm.org/doi/10.1145/3731715.3733262)] [[Code]]
 - **Survey Paper1**: Deep feature-based hyperspectral object tracking: An experimental survey and outlook. Yuchao Wang, Xu Li, Xinyan Yang, Fuyuan Ge, Baoguo Wei, Lixin Li, Shigang Yue. In **_Remote Sens_**, 2025. [[Paper]](https://doi.org/10.3390/rs17040645) [[Code]]
 - **HyA-T**: Hyperspectral Adapter for Object Tracking based on Hyperspectral Video. Long Gao, Yunhe Zhang, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li. In **_arXiv_**, 2025. [[Paper](https://arxiv.org/pdf/2503.22199)] [[Code](https://github.com/lgao001/HyA-T)]
 - **MUST**: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking. Haolin Qin, Tingfa Xu, Tianhao Li, Zhenxiang Chen, Tao Feng, Jianan Li. In **_CVPR2025_**, 2025. [[Paper](https://arxiv.org/abs/2503.17699)] [[Code](https://github.com/q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking)]
