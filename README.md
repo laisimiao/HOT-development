@@ -1,7 +1,8 @@
 # Hyperspectral Object Tracking
 - ****: [[Paper]()] [[Code]()]
 ### 2025  
-- **LRCF**: Low-Rank Regularized Correlation Filter for Hyperspectral Video Object Tracking. Na-Na Li; Heng-Chao Li; Jian-Li Wang; Xiong-Fei Geng; Jie Pan. In **_JSTARS_**, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/11072336)] [[Code]()]  
+- **HCSMP**: Hyperspectral Video Object Tracking with Cross-Modal Spectral Complementary and Memory Prompt Network. Wenhao Jiang, Dong Zhao, Chen Wang, Xin Yu, Pattathal V. Arun, Yuta Asano, Pei Xiang, Huixin Zhou. In **_KBS_**, 2025. [[Paper](https://doi.org/10.1016/j.knosys.2025.114595)] [[Code]]
+- **LRCF**: Low-Rank Regularized Correlation Filter for Hyperspectral Video Object Tracking. Na-Na Li; Heng-Chao Li; Jian-Li Wang; Xiong-Fei Geng; Jie Pan. In **_JSTARS_**, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/11072336)] [[Code]]  
 - **VSS**: A Multi-Stream Visual-Spectral-Spatial Adaptive Hyperspectral Object Tracking. Pengfei Wei, Liu Qiao, Zhenyu He, Di Yuan. In **_ICMR_**, 2025. [[Paper](https://dl.acm.org/doi/10.1145/3731715.3733262)] [[Code]]
 - **Survey Paper1**: Deep feature-based hyperspectral object tracking: An experimental survey and outlook. Yuchao Wang, Xu Li, Xinyan Yang, Fuyuan Ge, Baoguo Wei, Lixin Li, Shigang Yue. In **_Remote Sens_**, 2025. [[Paper]](https://doi.org/10.3390/rs17040645) [[Code]]
 - **HyA-T**: Domain Adapter for Visual Object Tracking based on Hyperspectral Video. Long Gao, Yunhe Zhang, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li. In **_PR_**, 2025. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325009574)] [[Code](https://github.com/lgao001/HyA-T)]
