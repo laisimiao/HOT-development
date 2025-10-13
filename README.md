@@ -1,6 +1,7 @@
 # Hyperspectral Object Tracking
 - ****: [[Paper]()] [[Code]()]
 ### 2025  
+- **MSITrack**: A Challenging Benchmark for Multispectral Single Object Tracking. Tao Feng, Tingfa Xu, Haolin Qin, Tianhao Li, Shuaihao Han, Xuyang Zou, Zhan Lv, Jianan Li. In **_ACMMM2025_**, 2025. [[Paper](http://arxiv.org/abs/2510.06619)] [[Code](https://github.com/Fengtao191/MSITrack)] 和MUST是同一个团队  
 - **HCSMP**: Hyperspectral Video Object Tracking with Cross-Modal Spectral Complementary and Memory Prompt Network. Wenhao Jiang, Dong Zhao, Chen Wang, Xin Yu, Pattathal V. Arun, Yuta Asano, Pei Xiang, Huixin Zhou. In **_KBS_**, 2025. [[Paper](https://doi.org/10.1016/j.knosys.2025.114595)] [[Code]]
 - **LRCF**: Low-Rank Regularized Correlation Filter for Hyperspectral Video Object Tracking. Na-Na Li; Heng-Chao Li; Jian-Li Wang; Xiong-Fei Geng; Jie Pan. In **_JSTARS_**, 2025. [[Paper](https://ieeexplore.ieee.org/abstract/document/11072336)] [[Code]]  
 - **VSS**: A Multi-Stream Visual-Spectral-Spatial Adaptive Hyperspectral Object Tracking. Pengfei Wei, Liu Qiao, Zhenyu He, Di Yuan. In **_ICMR_**, 2025. [[Paper](https://dl.acm.org/doi/10.1145/3731715.3733262)] [[Code]]
